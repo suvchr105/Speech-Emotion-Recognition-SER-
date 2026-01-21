@@ -16,10 +16,6 @@ A deep learning-based **Speech Emotion Recognition (SER)** system that classifie
 - [Usage](#usage)
 - [Results](#results)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [References](#references)
-- [Author](#author)
 
 ---
 
